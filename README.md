@@ -1,4 +1,8 @@
-# test-admin
+# react-admin-studies
+
+**Status: work in progress.** This is a practice repo for learning [react-admin](https://marmelab.com/react-admin/), working through the standard tutorial (JSONPlaceholder resources, a custom auth provider) with Material UI and TypeScript.
+
+It's preparation for the TC2007B (Tec de Monterrey) "Agilizando la empresa con sistemas seguros" course challenge, which requires building a secure web + mobile app for a *socio formador* (partner organization). The partner for this semester (Ago-Dic 2026) has not been confirmed yet, but is expected to be a Mexican federal agency, likely the Secretaría de Economía or the Secretaría de Salud.
 
 ## Installation
 
